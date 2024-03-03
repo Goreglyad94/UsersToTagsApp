@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "UsersToTagsDatabase": "Host=127.0.0.1;Port=5433;Database=postgres;Username=postgres;Password=123456"
+  }
+}
